@@ -1,0 +1,10 @@
+.card{
+    height: 531px;
+    border: none;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.295);
+    cursor: pointer;
+    border-radius: 5px;
+}
+.title{
+    color: rgba(71, 69, 69, 0.774);
+}

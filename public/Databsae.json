@@ -1,0 +1,66 @@
+[
+    {
+        "no":1,
+        "service": "Dairy farming",
+        "Price" : 450,
+        "duration" : 4,
+        "img" : "https://i.ytimg.com/vi/p_rtdPtdmAU/maxresdefault.jpg",
+        "about":"Dairy farming is a class of agriculture for long-term production of milk, which is processed (either on the farm or at a dairy plant, either of which may be called a dairy) for eventual sale of a dairy product.the United States, Japan, and Western Europe and geese to produce meat"
+    },
+    {
+        "no":2,
+        "service": "Poultry rearing",
+        "Price" : 220,
+        "duration" : 2,
+        "img": "https://www.webbspy.com/wp-content/uploads/2020/08/Small-scale-poultry-farming-business-in-Nigeria..png",
+        "about":"Poultry farming is the form of animal husbandry which raises domesticated birds such as chickens, ducks, turkeys and geese to produce meat or eggs for food. It has originated from the agricultural era. Poultry – mostly chickens – are farmed in great numbers." 
+    },
+    {
+        "no":3,
+        "service": "Fish farming",
+        "Price" : 600,
+        "duration" : 5,
+        "img": "https://agrifarmingtips.com/wp-content/uploads/2017/07/Fish-farming-ponds-images.jpg",
+        "about":"Fish farming or pisciculture involves commercial breeding of fish, usually for food, in fish tanks or artificial enclosures such as fish ponds. It is a particular type of aquaculture, which is the controlled cultivation and harvesting of aquatic animals such as fish, crustaceans."  
+    },
+    {
+        "no":4,
+        "service": "Shrimp Hatchery",
+        "Price" : 500,
+        "duration" : 6,
+        "img": "https://www.hatcheryinternational.com/wp-content/uploads/2020/01/Shrimp-1.jpg",
+        "about":"Commercial marine shrimp farming began in the 1970s, and production grew steeply, particularly to match the market demands of the United States, Japan, and Western Europe. The total global production of farmed shrimp reached more than 2.1 million tonnes in 1991."    
+    },
+    {
+        "no":5,
+        "service": "Goat rearing",
+        "Price" : 300,
+        "duration" : 6,
+        "img": "https://kj1bcdn.b-cdn.net/media/18158/goat-feeding.jpg?format=webp&width=1080&upscale=false",
+        "about":" Goat rearing Commercial  began in the 1970s, and production grew steeply, particularly to match the market demands of the United States, Japan, and Western Europe. The total global production of farmed shrimp reached more than 2.1 million tonnes in 1991."  
+    },
+    {
+        "no":6,
+        "service": "Paddy cultivation",
+        "Price" : 400,
+        "duration" : 7,
+        "img": "https://assets.thehansindia.com/h-upload/2020/08/09/989859-farming.webp",
+        "about":" Paddy cultivation Commercial  began in the 1770s, and production grew steeply, particularly to match the market demands of the United States, Japan, and Western Europe. The total global production of farmed shrimp reached more than 2.1 million tonnes."   
+    },
+    {
+        "no":7,
+        "service": "Poultry rearing",
+        "Price" : 100,
+        "duration" : 1,
+        "img": "https://i.ytimg.com/vi/7DltodRjx3k/maxresdefault.jpg",
+        "about":" Poultry rearing Commercial  began in the 1670s, and production grew steeply, particularly to match the market demands of the United States, Japan, and Western Europe. The total global production of farmed shrimp reached more than 2.1 million tonnes in 2020."   
+    },
+    {
+        "no":8,
+        "service": "Mushroom cultivation",
+        "Price" : 600,
+        "duration" : 6,
+        "img": "https://media.istockphoto.com/photos/close-up-of-hands-cupped-holding-white-mushroomssunlight-picture-id518732952?k=20&m=518732952&s=612x612&w=0&h=bd0eLi4P4fbq8mabqBIcYJwrKVvyPQrxMI-WmqEPAeU=",
+        "about":" Mushroom cultivation Commercial  began in the 1670s, and production grew steeply, particularly to match the market demands of the United States, Japan, and Western Europe. The total global production of farmed shrimp reached more than 2.1 million tonnes in 2010."    
+    }
+]
