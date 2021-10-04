@@ -14,8 +14,15 @@ function App() {
   //added mayclass 
   const [classes, setClasses]=useState([])
   const HandleClass = course =>{
-        const newcourse = [...classes,course];
-        setClasses(newcourse);
+        const exasting = classes.find(fn => fn.no === course.no)
+        if(exasting){
+
+        }
+        else{
+          const newcourse = [...classes,course];
+          setClasses(newcourse);
+        }
+       
      }
   return (
     <div className="App">
