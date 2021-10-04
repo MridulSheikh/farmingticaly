@@ -14,7 +14,7 @@ const Class = (props) => {
         <h5 className="card-title">{service}</h5>
         <p className="card-text text-secondary">Course not started</p>
         <p className="card-text text-danger"><i className="far fa-clock"></i> {duration} month</p>
-        <button type="button" class="btn btn-primary">continue Course</button>
+        <button type="button" className="btn btn-primary">continue Course</button>
        </div>
      </div>
    </div>
