@@ -5,11 +5,11 @@ const Class = (props) => {
   //my class card data
    const{service,duration,img}=props.myclass
     return (
-        <div className="row shadhow">
-    <div className="col-md-4">
-      <img src={img} className="img-fluid rounded-start" alt="..."/>
+        <div className="col-md-5 ms-5 row shadhow">
+    <div className="col-md-7 d-flex aling-items-center justify-content-center">
+      <img src={img} className="img-fluid rounded-start" alt="..." height="100%" width="100%"/>
     </div>
-    <div className="col-md-8 d-flex align-items-center">
+    <div className="col-md-5 d-flex align-items-center">
       <div className="card-body">
         <h5 className="card-title">{service}</h5>
         <p className="card-text text-secondary">Course not started</p>
