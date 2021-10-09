@@ -18,7 +18,8 @@ const Header = () => {
             <NavLink to="/home" className="text-light text-decoration-none me-5 px-3 py-2" activeStyle={activeStyle}>Home</NavLink>
             <NavLink to="/service" className="text-light text-decoration-none me-5 px-3 py-2" activeStyle={activeStyle}>Course</NavLink>
             <NavLink to="/about" className="text-light text-decoration-none me-5 px-3 py-2" activeStyle={activeStyle}>About</NavLink>
-            <NavLink to="cart" className="text-light text-decoration-none p-3 py-2" activeStyle={activeStyle}>My Classes</NavLink>
+            <NavLink to="/cart" className="text-light text-decoration-none p-3 py-2" activeStyle={activeStyle}>My Classes</NavLink>
+            <NavLink to ="/singin" className="text-light text-decoration-none p-3 py-2 ms-2" activeStyle={activeStyle}><i className="fas fa-sign-in-alt text-warning"></i> Login</NavLink>
         </div>
         </div>
     );

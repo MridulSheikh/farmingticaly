@@ -8,6 +8,8 @@ import Course from './component/Course/Course';
 import Footer from './component/footer/Footer';
 import Header from './component/header/Header';
 import Home from './component/home/Home';
+import Login from './component/log in/Login';
+import Singup from './component/sing up/Singup';
 import MyClass from './my class/MyClass';
 
 function App() {
@@ -62,6 +64,12 @@ function App() {
          <MyClass 
          classes={classes}
          ></MyClass>
+         </Route>
+         <Route path="/singin">
+         <Login></Login>
+         </Route>
+         <Route path="/singup">
+         <Singup></Singup>
          </Route>
          <Route>
          <div>
